@@ -31,12 +31,11 @@ body {
 
 .layer {
     background-color: rgba(55, 55, 55, 0.4);
-    position: absolute;
+    position: fixed;
     top: 0;
     height: 100%;
     left: 0;
     width: 100%;
-    background-attachment:fixed;
 }
  
 img {
