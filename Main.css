@@ -1,0 +1,42 @@
+﻿.linked-format {
+    padding-top: 10px;
+}
+
+.ghub-format {
+    padding-top: 10px;
+}
+
+a.navbar-brand{
+    color: black !important;
+}
+
+.link-list{
+     list-style-type:none;
+     display:inline;
+}
+
+.media-link{
+    float:right;
+    padding-right: 15px;
+}
+
+body {
+    background-image: url("background.jpg");
+    background-attachment:fixed;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: 20%;
+}
+
+.layer {
+    background-color: rgba(55, 55, 55, 0.4);
+    position: absolute;
+    left: 0;
+    width: 100%;
+    background-attachment:fixed;
+}
+ 
+img {
+    max-width: 100%;
+}
