@@ -41,3 +41,8 @@ body {
 img {
     max-width: 100%;
 }
+
+.clickHeader {
+    position:center;
+    z-index:3;
+}
