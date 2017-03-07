@@ -10,9 +10,14 @@ a.navbar-brand{
     color: black !important;
 }
 
+.navbar{
+    display:inline
+}
+
 .link-list{
      list-style-type:none;
      display:inline;
+     float: right;
 }
 
 .media-link{
